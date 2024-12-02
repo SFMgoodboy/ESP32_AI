@@ -1,0 +1,10 @@
+{
+    "idf.portWin": "COM5",
+    "files.associations": {
+        "string_view": "cpp",
+        "regex": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "functional": "cpp"
+    }
+}
