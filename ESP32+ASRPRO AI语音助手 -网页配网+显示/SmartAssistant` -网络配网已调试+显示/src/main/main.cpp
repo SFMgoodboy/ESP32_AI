@@ -20,9 +20,9 @@ using namespace websockets;
 #define led2 21 // 唤醒指示灯
 
 // 讯飞stt和大模型服务的参数
-String APPID = "8e0b919d";                             // App ID,必填
-String APIKey = "668ac0583366664c046d04dc6e90c41c";    // API Key，必填
-String APISecret = "MWNlOGZmMWFjY2M4YWQ2Mzc2MTY0ZDI2"; // API Secret，必填
+String APPID = "";                             // App ID,必填
+String APIKey = "";    // API Key，必填
+String APISecret = ""; // API Secret，必填
 
 String appId1 = APPID;
 String domain1 = "generalv3";
